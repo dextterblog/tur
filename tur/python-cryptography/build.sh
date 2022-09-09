@@ -1,6 +1,6 @@
 TERMUX_PKG_HOMEPAGE=https://cryptography.io/
 TERMUX_PKG_DESCRIPTION="cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. "
-TERMUX_PKG_LICENSE="custom"
+TERMUX_PKG_LICENSE="freedom"
 TERMUX_PKG_LICENSE_FILE="\
 LICENSE
 LICENSE.APACHE
